@@ -1,2 +1,4 @@
 # Diet-and-Workout-Recommendation-system-using-LangChain-and-OpenAI
-A Web Application designed to deliver personalized Diet and Workout Recommendations by leveraging the capabilities of OpenAI model and LangChain Framework.
+
+# Introduction
+A Flask-based web application designed to deliver personalized diet and workout recommendations by leveraging the capabilities of the OpenAI GPT model and LangChain Framework. The primary objective is to create a user-friendly interface where individuals can input personal details such as age, gender, weight, height, dietary preferences, existing health conditions, regional food habits, and allergies. These inputs are then processed to generate customized recommendations, including suitable restaurants, breakfast, lunch, dinner, and workout routines. It showcases the potential of combining Flask for web development with the powerful language generation features of OpenAI's models, creating a seamless and interactive user experience. 
